@@ -10,8 +10,5 @@ para simular uma branch nova que terá o pedido de pull request
 --------
 
 |Integrantes | Papel |
----------
 |Alec Justiniano | Dev Senior |
----------
 | Alec Aluno | Dev Junior |
----------
